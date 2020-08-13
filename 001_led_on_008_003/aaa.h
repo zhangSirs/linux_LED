@@ -18,4 +18,5 @@ int check(void)
 	srv--------2
 	printf("check");
 	client-------------1
+	client=============2
 }
