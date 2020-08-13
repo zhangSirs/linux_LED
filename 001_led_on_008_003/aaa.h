@@ -7,6 +7,10 @@ int display(void)
 	printf("good");
 }
 
+void srv4()
+{
+	return 3;
+}
 
 void srvdisplay
 {
