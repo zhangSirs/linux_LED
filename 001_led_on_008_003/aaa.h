@@ -11,4 +11,5 @@ int check(void)
 {
 	srv---------------------
 	printf("check");
+	client-------------1
 }
