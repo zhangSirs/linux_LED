@@ -7,6 +7,11 @@ int display(void)
 	printf("good");
 }
 
+void srvdisplay
+{
+
+}
+
 int check(void)
 {
 	srv---------------------
