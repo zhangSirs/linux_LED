@@ -9,5 +9,6 @@ int display(void)
 
 int check(void)
 {
+	srv---------------------
 	printf("check");
 }
