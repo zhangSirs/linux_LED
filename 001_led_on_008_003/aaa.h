@@ -7,9 +7,16 @@ int display(void)
 	printf("good");
 }
 
+
 void srv4()
 {
 	return 3;
+}
+
+void client(void)
+{
+	
+	return 0;
 }
 
 void srvdisplay
