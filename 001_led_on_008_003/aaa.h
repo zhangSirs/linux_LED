@@ -10,6 +10,7 @@ int display(void)
 int check(void)
 {
 	srv---------------------
+	srv--------2
 	printf("check");
 	client-------------1
 }
